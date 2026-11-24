@@ -1,0 +1,11 @@
+= Spring Petclinic – Release Notes
+
+== [VERSION]
+
+=== Neue Features
+
+=== Bugfixes
+
+=== Technische Verbesserungen
+
+=== Breaking Changes
